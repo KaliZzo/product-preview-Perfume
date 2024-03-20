@@ -1,0 +1,98 @@
+.Father{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   border-style: solid;
+   border-color: rgb(255, 255, 255);
+   border-radius: 10px;
+   background-color:white;
+   width: 500px;
+
+   
+
+ 
+  
+}
+
+.BOX{
+   width: 250px; 
+   
+}
+
+#BOXX2 {
+    padding-left: 20px;
+   
+}
+
+#PRICE2 {
+    text-align:left;
+    color: rgb(58, 174, 58);
+    font-size: 30px;
+    font-family: "Fraunces", sans-serif;
+    font-weight: 600;
+   
+    
+}
+
+#ADD2{
+    border-style: solid;
+    border-radius: 10px;
+    border-color: rgb(58, 174, 58);
+    width: 140px;
+    height: 50px;
+    background-color: rgb(58, 174, 58);
+    display: flex;
+    text-align: center;
+    align-items: center;
+    padding-left: 20px;
+   margin: auto;
+   color: white;
+   font-family: "Montserrat", sans-serif;
+   font-weight: 600;
+}
+
+#PRICE{
+    display: flex;
+    text-indent: 10px;
+    
+    
+    
+}
+
+#PRICE3{
+    text-decoration: line-through;
+}
+
+#PERFUME{
+    font-family: "Montserrat", sans-serif;
+    font-weight: 300;
+    letter-spacing: .4rem;
+    font-size: 15px;
+    
+   
+}
+
+#Title{
+    font-family: "Fraunces", sans-serif;
+    font-weight: 800;
+   
+    
+}
+
+#Description{
+
+    font-family: "Montserrat", sans-serif;
+font-weight: 250;
+}
+
+#mom{
+    display: flex;
+    height:600px;
+    align-items: center;
+    justify-content: center;
+    background-color: blanchedalmond;
+}
+
+#img{
+    border-radius: 10px 0px 0px 10px;
+}
